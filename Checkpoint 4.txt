@@ -1,0 +1,1 @@
+The change between Checkpoints 2 and 3 is that because Checkpoint 3 has significantly decreased resolution, it is significantly smaller in both size and pixel density than Checkpoint 2.

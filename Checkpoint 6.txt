@@ -1,0 +1,1 @@
+The difference between the two images has to do with how washed-out the images appear. The gamma value for Checkpoint 5 is higher, so it appears more washed-out.
