@@ -1,0 +1,5 @@
+Resulting matrix for Pxy:
+
+[(1 + sqrt(2))/sqrt(2)]
+[0]
+[(-1 + sqrt(2))/sqrt(2)]
