@@ -1,0 +1,1 @@
+In Checkpoint 1.5, the shadow was pretty solid overall, but with Checkpoint 2.5, the shadow looks more like a gradient, getting darker towards the back.

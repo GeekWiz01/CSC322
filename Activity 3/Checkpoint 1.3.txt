@@ -1,0 +1,3 @@
+Flat shading will treat the mesh surfaces (the primitive ones, each one composed of a face of edges and vertices) as a completely flat surface and shade accordingly.
+
+Smooth shading will attempt to treat those surfaces as being curved, and will shade accordingly.

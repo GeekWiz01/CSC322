@@ -1,0 +1,5 @@
+The first rendered image has a fully metallic sphere with no roughness and an almost-fully transmissive plane. The sphere looks completely like a mirror, but the plane doesn't seem to have changed much.
+
+The second rendered image has a completely anisotropic material, and the plane is fully metallic with half roughness. The sphere now looks like a reflective, white marble, and the plane looks like a rough sheet of aluminum.
+
+The third rendered image has a sphere that is fully anisotropic and partially metallic, and the plane is mostly the same except for a diminished alpha value. The sphere still looks mostly like a marble, but the plane still looks similar to the one in the second render.

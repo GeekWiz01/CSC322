@@ -1,0 +1,6 @@
+The first render with flat shading and no subdivision surface modifier had the least quality.
+The last render with both smooth shading and subdivision surface modifier had the best quality.
+
+The other two renders had interesting results. The one with smooth shading but no subdivision surface modifier had mostly smoothe shading, but flat shadows appeared on some parts of the lighting edge on the sphere. The one with the subdivision surface but flat shading had no strange shadows on the lighting edge, but the flat sub-surfaces were still visible.
+
+The best combination of the shading type and sub-surface amount is the following: 1) The shading should be smooth enough to smooth out the sub-surfaces so they are not as visible, and 2) There should be enough sub-surface so that there are no strange shadows across lighting edges, as demonstrated in the final render.
