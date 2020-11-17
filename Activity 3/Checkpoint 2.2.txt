@@ -1,1 +1,1 @@
-I was not able to choose a pixel for the previous step or this one. I do not know how to save things to different slots, and the Internet did not do me much good. I would have to reinitiate the project to get the lighting conditions to the default again.
+The nature of this question confuses me somewhat. All I can show from the sample point in 2.1.2 is that a decrease in light to a quarter of its original power will result in an approximate overall brightness decrease of 25-30%.

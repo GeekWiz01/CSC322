@@ -1,0 +1,2 @@
+The same point on the brighter image was 0.6905 RGB
+The same point on the dimmer image was 0.4088 RGB
