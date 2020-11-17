@@ -1,0 +1,1 @@
+I see what looks like a cube except that it is strangely blurred. Since the cube was moved in an axis that is almost parallel to some of its edges, some of its edges appear hard, while others appear severely blurred.

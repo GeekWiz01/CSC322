@@ -1,0 +1,1 @@
+Here is how I would describe what I see: the farther an object is away from the glass sphere in proportion to the camera, the more blurred it appears to be.
