@@ -1,0 +1,1 @@
+From a comparison between Checkpoints 2.2 and 2.3, the displacement map seems to affect the actual geometry of what is being rendered, while the normal map only adjusts the shading to account for depth.

@@ -1,0 +1,1 @@
+From a comparison between Checkpoints 2.1 and 2.2, the normal map seems to shade the nooks, crevices, and other depth information with the correct shading, reflecting depth more accurately from a color standpoint.
